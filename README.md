@@ -1,8 +1,8 @@
 # Crossplane Explorer
 
-A [Headlamp](https://headlamp.dev) plugin for exploring and managing [Crossplane](https://www.crossplane.io) resources. Compatible with Crossplane v1 and v2.
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/crossplane-explorer-headlamp)](https://artifacthub.io/packages/search?repo=crossplane-explorer-headlamp)
 
-![Crossplane Explorer](img/crossplane-explorer.png)
+A [Headlamp](https://headlamp.dev) plugin for exploring and managing [Crossplane](https://www.crossplane.io) resources. Compatible with Crossplane v1 and v2.
 
 ## Features
 
