@@ -5,13 +5,13 @@ version: 0.1.0
 name: crossplane-explorer-plugin
 displayName: Crossplane Explorer
 createdAt: "2025-03-20T00:00:00Z"
-logoURL: https://raw.githubusercontent.com/vinish86/crossplane-explorer-headlamp/main/img/ice-cream-stick-dark.svg
+logoURL: https://raw.githubusercontent.com/vinish86/crossplane-explorer-headlamp/main/img/crossplane-explorer.png
 description: Headlamp plugin for exploring and managing Crossplane resources (Compositions, XRDs, Claims, Providers, and more). Compatible with Crossplane v1 and v2.
 annotations:
   # Required: URL to the plugin tarball from a GitHub/GitLab/BitBucket release
   headlamp/plugin/archive-url: https://github.com/vinish86/crossplane-explorer-headlamp/releases/download/v0.1.0/crossplane-explorer-plugin-0.1.0.tar.gz
   # Required: SHA256 checksum (from `npm run package` output)
-  headlamp/plugin/archive-checksum: SHA256:b8856149706c929607ce79fa4ba8c8da2a31cff4fcd601194f20059cf189ab82
+  headlamp/plugin/archive-checksum: SHA256:59bfd864821cd4d31b7d23ffabc8410a4eb18972a4fbbe2640bfa9da75b93a70
   # Headlamp version compatibility (e.g., '>=0.29')
   headlamp/plugin/version-compat: ">=0.29"
   # Where the plugin can run: in-cluster, web, docker-desktop, desktop
