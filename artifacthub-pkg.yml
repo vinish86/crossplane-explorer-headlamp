@@ -4,7 +4,7 @@
 version: 0.1.0
 name: crossplane-explorer-plugin
 displayName: Crossplane Explorer
-createdAt: "2025-03-20T00:00:00Z"
+createdAt: "2025-03-20T12:00:00Z"
 logoURL: https://raw.githubusercontent.com/vinish86/crossplane-explorer-headlamp/main/img/crossplane-explorer.png
 description: Headlamp plugin for exploring and managing Crossplane resources (Compositions, XRDs, Claims, Providers, and more). Compatible with Crossplane v1 and v2.
 annotations:
